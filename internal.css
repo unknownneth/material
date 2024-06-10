@@ -29,10 +29,11 @@ body{
     color: #666;
 }
 .card-container{
-        display: block;
+        display: flex;
         justify-content: center;
         flex-wrap: wrap;
         margin-top: 100px;
+        align-items: center;
 }
 .card{
     width: 325px;
