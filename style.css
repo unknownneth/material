@@ -74,7 +74,7 @@ body{
     height: calc(100vh - 80px);
     background-image: url(unitebg.jfif);
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 256%;
     background-position: center;
 }
 @media (min-width: 600px){
