@@ -72,10 +72,10 @@ body{
 }
 .unitec{
     height: calc(100vh - 80px);
-    background-image: url(t.jpg);
+    background-image: url(BGBG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: left;
 }
 .ware{
     color:white;
