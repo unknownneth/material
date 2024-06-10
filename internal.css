@@ -68,4 +68,10 @@ ion-icon {
     .column{
         width: 50%;
     }
+    main {
+        flex-wrap: nowrap;
+    }
+    div{
+        flex-basis: 33%
+    }
 }
