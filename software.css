@@ -34,6 +34,7 @@ body{
        flex-wrap: wrap;
         margin-top: 100px;
         margin-left: 12rem;
+        margin-right: -12rem;
 }
 .card{
     width: 325px;
