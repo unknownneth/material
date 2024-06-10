@@ -65,8 +65,3 @@ ion-icon {
     font-size: 64px;
     color: black;
   }
-@media (min-width: 600px){
-    .column{
-        width: 50%;
-    }
-}
